@@ -21,7 +21,7 @@ Hi, I'm Crisler Wintler, a passionate self-taught Developer from Brazil.
 
 - 🔭 I’m currently working on my personal projects to build my portfolio
 - 🌱 I’m currently learning Typescript, Docker and Azure.
-- 💬 Ask me about anything [here](https://github.com/crislerwin/crislerwin/issues/)
+- 💬 Ask me about anything [here](https://github.com/crislerwintler/crislerwin/issues/)
 
 **Languages and Tools:**
 
@@ -34,17 +34,17 @@ Hi, I'm Crisler Wintler, a passionate self-taught Developer from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages O have the most code on github, it's a new feature of [github-readme-stats](https://github-readme-stats.vercel.app/api?username=crislerwin)_
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages O have the most code on github, it's a new feature of [github-readme-stats](https://github-readme-stats.vercel.app/api?username=crislerwintler)_
 
 <a href="https://github.com/crislerwin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crislerwin&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Crisler github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crislerwintler&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Crisler github stats" />
 </a>
 <a href="https://github.com/crislerwin/github-readme-stats">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislerwin&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislerwintler&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://www.crisler.tech">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crislerwin&repo=crislerwin&theme=material-palenight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crislerwin&repo=crislerwintler&theme=material-palenight" />
 </a>
