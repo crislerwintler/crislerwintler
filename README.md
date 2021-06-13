@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/crisler-wintler-550488202/">
-  <img align="left" alt="crislerwin" width="21px" src="https://th.bing.com/th/id/Rc3fcc390427d68b89647e834adf7fc87?rik=KjgxDpSgaFnXKA&pid=ImgRaw" />
+  <img align="left" alt="crislerwintler" width="21px" src="https://th.bing.com/th/id/Rc3fcc390427d68b89647e834adf7fc87?rik=KjgxDpSgaFnXKA&pid=ImgRaw" />
 </a>
 
 <br />
@@ -46,5 +46,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <a href="https://www.crisler.tech">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crislerwin&repo=crislerwintler&theme=material-palenight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crislerwintler&repo=crislerwintler&theme=material-palenight" />
 </a>
